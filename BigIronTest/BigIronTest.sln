@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigIron.RoutePlanner.Web", "BigIron.RoutePlanner.Web\BigIron.RoutePlanner.Web.csproj", "{35147294-5388-4DF4-883B-8759B39B2136}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigIron.RoutePlanner.Domain", "BigIron.RoutePlanner.Domain\BigIron.RoutePlanner.Domain.csproj", "{68FD53F9-95EC-49AF-82DB-4FC2468578A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigIron.RoutePlanner.Application", "BigIron.RoutePlanner.Application\BigIron.RoutePlanner.Application.csproj", "{3D8B5D7E-6072-4BC2-A863-686E6128DB42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigIron.RoutePlanner.Infraestructure", "BigIron.RoutePlanner.Infraestructure\BigIron.RoutePlanner.Infraestructure.csproj", "{F8B1F9A4-0B52-49CE-898E-A7A368F70C8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35147294-5388-4DF4-883B-8759B39B2136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35147294-5388-4DF4-883B-8759B39B2136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35147294-5388-4DF4-883B-8759B39B2136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35147294-5388-4DF4-883B-8759B39B2136}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68FD53F9-95EC-49AF-82DB-4FC2468578A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68FD53F9-95EC-49AF-82DB-4FC2468578A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68FD53F9-95EC-49AF-82DB-4FC2468578A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68FD53F9-95EC-49AF-82DB-4FC2468578A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D8B5D7E-6072-4BC2-A863-686E6128DB42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D8B5D7E-6072-4BC2-A863-686E6128DB42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D8B5D7E-6072-4BC2-A863-686E6128DB42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D8B5D7E-6072-4BC2-A863-686E6128DB42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8B1F9A4-0B52-49CE-898E-A7A368F70C8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8B1F9A4-0B52-49CE-898E-A7A368F70C8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8B1F9A4-0B52-49CE-898E-A7A368F70C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8B1F9A4-0B52-49CE-898E-A7A368F70C8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F010BECF-DD16-4ADE-B142-AC33923DF7B4}
+	EndGlobalSection
+EndGlobal
