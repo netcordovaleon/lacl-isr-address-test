@@ -33,7 +33,6 @@ namespace BigIron.RoutePlanner.Infraestructure.Services
 
         private static string Escape(string value)
         {
-            // Maneja comas y comillas
             if (value.Contains(',') || value.Contains('"'))
                 return $"\"{value.Replace("\"", "\"\"")}\"";
 
