@@ -27,6 +27,15 @@ BigIron.RoutePlanner/
 │
 └── README.md
  ```
+## CSV for testing
+```
+Name,Address,Latitude,Longitude
+Farm Supply Co,2050 County Road 12,40.7132,-95.0123
+John Deere Dealer,441 Main Street,40.8021,-94.9234
+BigIron Prospect A,1776 Pioneer Trail,40.6455,-95.1159
+Midwest Grain LLC,322 Prairie Ave,40.7108,-94.9901
+Agro Services Inc,510 Sunset Drive,40.7583,-94.8450
+```
 
 ## Installation
 
